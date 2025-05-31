@@ -1,4 +1,4 @@
-#Web site with sign(in\up) using gosqlite3 (if sign up - alert name/registration time)
+# Web site with sign(in\up) using gosqlite3 (if sign up - alert name/registration time)
 # 2 terminals
 ```bash
 go run *.go
